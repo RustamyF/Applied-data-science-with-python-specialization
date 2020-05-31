@@ -1,2 +1,2 @@
 # git-github
-This is for totorial purposes
+This github repository is created for totorial purposes
